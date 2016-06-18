@@ -1,0 +1,12 @@
+# elm-package generated files
+elm-stuff/
+
+# elm-repl generated files
+repl-temp-*
+
+# Static artifacts
+node_modules/
+
+# We're building these assets from /scss/ and /src/ so no need to include them.
+public/js/
+public/css/
